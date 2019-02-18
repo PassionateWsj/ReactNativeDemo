@@ -1,0 +1,3696 @@
+[
+  {
+    "id": 2,
+    "level": 1,
+    "areaName": "北京市",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 500,
+        "level": 2,
+        "areaName": "东城区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 501,
+        "level": 2,
+        "areaName": "西城区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 502,
+        "level": 2,
+        "areaName": "海淀区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 503,
+        "level": 2,
+        "areaName": "朝阳区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 506,
+        "level": 2,
+        "areaName": "丰台区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 507,
+        "level": 2,
+        "areaName": "石景山区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 508,
+        "level": 2,
+        "areaName": "房山区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 509,
+        "level": 2,
+        "areaName": "门头沟区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 510,
+        "level": 2,
+        "areaName": "通州区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 511,
+        "level": 2,
+        "areaName": "顺义区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 512,
+        "level": 2,
+        "areaName": "昌平区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 513,
+        "level": 2,
+        "areaName": "怀柔区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 514,
+        "level": 2,
+        "areaName": "平谷区",
+        "pid": 2,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 515,
+        "level": 2,
+        "areaName": "大兴区",
+        "pid": 2,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "areaName": "安徽省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 36,
+        "level": 2,
+        "areaName": "安庆",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 37,
+        "level": 2,
+        "areaName": "蚌埠",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 38,
+        "level": 2,
+        "areaName": "巢湖",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 39,
+        "level": 2,
+        "areaName": "池州",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 40,
+        "level": 2,
+        "areaName": "滁州",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 41,
+        "level": 2,
+        "areaName": "阜阳",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 42,
+        "level": 2,
+        "areaName": "淮北",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 43,
+        "level": 2,
+        "areaName": "淮南",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 44,
+        "level": 2,
+        "areaName": "黄山",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 45,
+        "level": 2,
+        "areaName": "六安",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 46,
+        "level": 2,
+        "areaName": "马鞍山",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 47,
+        "level": 2,
+        "areaName": "宿州",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 48,
+        "level": 2,
+        "areaName": "铜陵",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 49,
+        "level": 2,
+        "areaName": "芜湖",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 50,
+        "level": 2,
+        "areaName": "宣城",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 51,
+        "level": 2,
+        "areaName": "亳州",
+        "pid": 3,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3401,
+        "level": 2,
+        "areaName": "合肥",
+        "pid": 3,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "areaName": "福建省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 53,
+        "level": 2,
+        "areaName": "福州",
+        "pid": 4,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 54,
+        "level": 2,
+        "areaName": "龙岩",
+        "pid": 4,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 55,
+        "level": 2,
+        "areaName": "南平",
+        "pid": 4,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 56,
+        "level": 2,
+        "areaName": "宁德",
+        "pid": 4,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 57,
+        "level": 2,
+        "areaName": "莆田",
+        "pid": 4,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 58,
+        "level": 2,
+        "areaName": "泉州",
+        "pid": 4,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 59,
+        "level": 2,
+        "areaName": "三明",
+        "pid": 4,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 60,
+        "level": 2,
+        "areaName": "厦门",
+        "pid": 4,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 61,
+        "level": 2,
+        "areaName": "漳州",
+        "pid": 4,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "areaName": "甘肃省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 62,
+        "level": 2,
+        "areaName": "兰州",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 63,
+        "level": 2,
+        "areaName": "白银",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 64,
+        "level": 2,
+        "areaName": "定西",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 65,
+        "level": 2,
+        "areaName": "甘南",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 66,
+        "level": 2,
+        "areaName": "嘉峪关",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 67,
+        "level": 2,
+        "areaName": "金昌",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 68,
+        "level": 2,
+        "areaName": "酒泉",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 69,
+        "level": 2,
+        "areaName": "临夏",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 70,
+        "level": 2,
+        "areaName": "陇南",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 71,
+        "level": 2,
+        "areaName": "平凉",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 72,
+        "level": 2,
+        "areaName": "庆阳",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 73,
+        "level": 2,
+        "areaName": "天水",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 74,
+        "level": 2,
+        "areaName": "武威",
+        "pid": 5,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 75,
+        "level": 2,
+        "areaName": "张掖",
+        "pid": 5,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "areaName": "广东省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 76,
+        "level": 2,
+        "areaName": "广州",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 77,
+        "level": 2,
+        "areaName": "深圳",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 78,
+        "level": 2,
+        "areaName": "潮州",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 79,
+        "level": 2,
+        "areaName": "东莞",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 80,
+        "level": 2,
+        "areaName": "佛山",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 81,
+        "level": 2,
+        "areaName": "河源",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 82,
+        "level": 2,
+        "areaName": "惠州",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 83,
+        "level": 2,
+        "areaName": "江门",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 84,
+        "level": 2,
+        "areaName": "揭阳",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 85,
+        "level": 2,
+        "areaName": "茂名",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 86,
+        "level": 2,
+        "areaName": "梅州",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 87,
+        "level": 2,
+        "areaName": "清远",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 88,
+        "level": 2,
+        "areaName": "汕头",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 89,
+        "level": 2,
+        "areaName": "汕尾",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 90,
+        "level": 2,
+        "areaName": "韶关",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 91,
+        "level": 2,
+        "areaName": "阳江",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 92,
+        "level": 2,
+        "areaName": "云浮",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 93,
+        "level": 2,
+        "areaName": "湛江",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 94,
+        "level": 2,
+        "areaName": "肇庆",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 95,
+        "level": 2,
+        "areaName": "中山",
+        "pid": 6,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 96,
+        "level": 2,
+        "areaName": "珠海",
+        "pid": 6,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "areaName": "广西壮族自治区",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 97,
+        "level": 2,
+        "areaName": "南宁",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 98,
+        "level": 2,
+        "areaName": "桂林",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 99,
+        "level": 2,
+        "areaName": "百色",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 100,
+        "level": 2,
+        "areaName": "北海",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 101,
+        "level": 2,
+        "areaName": "崇左",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 102,
+        "level": 2,
+        "areaName": "防城港",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 103,
+        "level": 2,
+        "areaName": "贵港",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 104,
+        "level": 2,
+        "areaName": "河池",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 105,
+        "level": 2,
+        "areaName": "贺州",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 106,
+        "level": 2,
+        "areaName": "来宾",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 107,
+        "level": 2,
+        "areaName": "柳州",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 108,
+        "level": 2,
+        "areaName": "钦州",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 109,
+        "level": 2,
+        "areaName": "梧州",
+        "pid": 7,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 110,
+        "level": 2,
+        "areaName": "玉林",
+        "pid": 7,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "areaName": "贵州省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 111,
+        "level": 2,
+        "areaName": "贵阳",
+        "pid": 8,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 112,
+        "level": 2,
+        "areaName": "安顺",
+        "pid": 8,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 113,
+        "level": 2,
+        "areaName": "毕节",
+        "pid": 8,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 114,
+        "level": 2,
+        "areaName": "六盘水",
+        "pid": 8,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 115,
+        "level": 2,
+        "areaName": "黔东南",
+        "pid": 8,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 116,
+        "level": 2,
+        "areaName": "黔南",
+        "pid": 8,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 117,
+        "level": 2,
+        "areaName": "黔西南",
+        "pid": 8,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 118,
+        "level": 2,
+        "areaName": "铜仁",
+        "pid": 8,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 119,
+        "level": 2,
+        "areaName": "遵义",
+        "pid": 8,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "areaName": "海南省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 120,
+        "level": 2,
+        "areaName": "海口",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 121,
+        "level": 2,
+        "areaName": "三亚",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 122,
+        "level": 2,
+        "areaName": "白沙",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 123,
+        "level": 2,
+        "areaName": "保亭",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 124,
+        "level": 2,
+        "areaName": "昌江",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 125,
+        "level": 2,
+        "areaName": "澄迈县",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 126,
+        "level": 2,
+        "areaName": "定安县",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 127,
+        "level": 2,
+        "areaName": "东方",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 128,
+        "level": 2,
+        "areaName": "乐东",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 129,
+        "level": 2,
+        "areaName": "临高县",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 130,
+        "level": 2,
+        "areaName": "陵水",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 131,
+        "level": 2,
+        "areaName": "琼海",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 132,
+        "level": 2,
+        "areaName": "琼中",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 133,
+        "level": 2,
+        "areaName": "屯昌县",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 134,
+        "level": 2,
+        "areaName": "万宁",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 135,
+        "level": 2,
+        "areaName": "文昌",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 136,
+        "level": 2,
+        "areaName": "五指山",
+        "pid": 9,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 137,
+        "level": 2,
+        "areaName": "儋州",
+        "pid": 9,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "areaName": "河北省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 138,
+        "level": 2,
+        "areaName": "石家庄",
+        "pid": 10,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 139,
+        "level": 2,
+        "areaName": "保定",
+        "pid": 10,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 140,
+        "level": 2,
+        "areaName": "沧州",
+        "pid": 10,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 141,
+        "level": 2,
+        "areaName": "承德",
+        "pid": 10,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 142,
+        "level": 2,
+        "areaName": "邯郸",
+        "pid": 10,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 143,
+        "level": 2,
+        "areaName": "衡水",
+        "pid": 10,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 144,
+        "level": 2,
+        "areaName": "廊坊",
+        "pid": 10,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 145,
+        "level": 2,
+        "areaName": "秦皇岛",
+        "pid": 10,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 146,
+        "level": 2,
+        "areaName": "唐山",
+        "pid": 10,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 147,
+        "level": 2,
+        "areaName": "邢台",
+        "pid": 10,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 148,
+        "level": 2,
+        "areaName": "张家口",
+        "pid": 10,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "areaName": "河南省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 149,
+        "level": 2,
+        "areaName": "郑州",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 150,
+        "level": 2,
+        "areaName": "洛阳",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 151,
+        "level": 2,
+        "areaName": "开封",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 152,
+        "level": 2,
+        "areaName": "安阳",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 153,
+        "level": 2,
+        "areaName": "鹤壁",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 154,
+        "level": 2,
+        "areaName": "济源",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 155,
+        "level": 2,
+        "areaName": "焦作",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 156,
+        "level": 2,
+        "areaName": "南阳",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 157,
+        "level": 2,
+        "areaName": "平顶山",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 158,
+        "level": 2,
+        "areaName": "三门峡",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 159,
+        "level": 2,
+        "areaName": "商丘",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 160,
+        "level": 2,
+        "areaName": "新乡",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 161,
+        "level": 2,
+        "areaName": "信阳",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 162,
+        "level": 2,
+        "areaName": "许昌",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 163,
+        "level": 2,
+        "areaName": "周口",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 164,
+        "level": 2,
+        "areaName": "驻马店",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 165,
+        "level": 2,
+        "areaName": "漯河",
+        "pid": 11,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 166,
+        "level": 2,
+        "areaName": "濮阳",
+        "pid": 11,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "areaName": "黑龙江省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 167,
+        "level": 2,
+        "areaName": "哈尔滨",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 168,
+        "level": 2,
+        "areaName": "大庆",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 169,
+        "level": 2,
+        "areaName": "大兴安岭",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 170,
+        "level": 2,
+        "areaName": "鹤岗",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 171,
+        "level": 2,
+        "areaName": "黑河",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 172,
+        "level": 2,
+        "areaName": "鸡西",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 173,
+        "level": 2,
+        "areaName": "佳木斯",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 174,
+        "level": 2,
+        "areaName": "牡丹江",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 175,
+        "level": 2,
+        "areaName": "七台河",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 176,
+        "level": 2,
+        "areaName": "齐齐哈尔",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 177,
+        "level": 2,
+        "areaName": "双鸭山",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 178,
+        "level": 2,
+        "areaName": "绥化",
+        "pid": 12,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 179,
+        "level": 2,
+        "areaName": "伊春",
+        "pid": 12,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "areaName": "湖北省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 180,
+        "level": 2,
+        "areaName": "武汉",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 181,
+        "level": 2,
+        "areaName": "仙桃",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 182,
+        "level": 2,
+        "areaName": "鄂州",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 183,
+        "level": 2,
+        "areaName": "黄冈",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 184,
+        "level": 2,
+        "areaName": "黄石",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 185,
+        "level": 2,
+        "areaName": "荆门",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 186,
+        "level": 2,
+        "areaName": "荆州",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 187,
+        "level": 2,
+        "areaName": "潜江",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 188,
+        "level": 2,
+        "areaName": "神农架林区",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 189,
+        "level": 2,
+        "areaName": "十堰",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 190,
+        "level": 2,
+        "areaName": "随州",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 191,
+        "level": 2,
+        "areaName": "天门",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 192,
+        "level": 2,
+        "areaName": "咸宁",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 193,
+        "level": 2,
+        "areaName": "襄樊",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 194,
+        "level": 2,
+        "areaName": "孝感",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 195,
+        "level": 2,
+        "areaName": "宜昌",
+        "pid": 13,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 196,
+        "level": 2,
+        "areaName": "恩施",
+        "pid": 13,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "areaName": "湖南省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 197,
+        "level": 2,
+        "areaName": "长沙",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 198,
+        "level": 2,
+        "areaName": "张家界",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 199,
+        "level": 2,
+        "areaName": "常德",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 200,
+        "level": 2,
+        "areaName": "郴州",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 201,
+        "level": 2,
+        "areaName": "衡阳",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 202,
+        "level": 2,
+        "areaName": "怀化",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 203,
+        "level": 2,
+        "areaName": "娄底",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 204,
+        "level": 2,
+        "areaName": "邵阳",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 205,
+        "level": 2,
+        "areaName": "湘潭",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 206,
+        "level": 2,
+        "areaName": "湘西",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 207,
+        "level": 2,
+        "areaName": "益阳",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 208,
+        "level": 2,
+        "areaName": "永州",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 209,
+        "level": 2,
+        "areaName": "岳阳",
+        "pid": 14,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 210,
+        "level": 2,
+        "areaName": "株洲",
+        "pid": 14,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "areaName": "吉林省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 211,
+        "level": 2,
+        "areaName": "长春",
+        "pid": 15,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 212,
+        "level": 2,
+        "areaName": "吉林",
+        "pid": 15,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 213,
+        "level": 2,
+        "areaName": "白城",
+        "pid": 15,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 214,
+        "level": 2,
+        "areaName": "白山",
+        "pid": 15,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 215,
+        "level": 2,
+        "areaName": "辽源",
+        "pid": 15,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 216,
+        "level": 2,
+        "areaName": "四平",
+        "pid": 15,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 217,
+        "level": 2,
+        "areaName": "松原",
+        "pid": 15,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 218,
+        "level": 2,
+        "areaName": "通化",
+        "pid": 15,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 219,
+        "level": 2,
+        "areaName": "延边",
+        "pid": 15,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "areaName": "江苏省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 220,
+        "level": 2,
+        "areaName": "南京",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 221,
+        "level": 2,
+        "areaName": "苏州",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 222,
+        "level": 2,
+        "areaName": "无锡",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 223,
+        "level": 2,
+        "areaName": "常州",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 224,
+        "level": 2,
+        "areaName": "淮安",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 225,
+        "level": 2,
+        "areaName": "连云港",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 226,
+        "level": 2,
+        "areaName": "南通",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 227,
+        "level": 2,
+        "areaName": "宿迁",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 228,
+        "level": 2,
+        "areaName": "泰州",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 229,
+        "level": 2,
+        "areaName": "徐州",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 230,
+        "level": 2,
+        "areaName": "盐城",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 231,
+        "level": 2,
+        "areaName": "扬州",
+        "pid": 16,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 232,
+        "level": 2,
+        "areaName": "镇江",
+        "pid": 16,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "areaName": "江西省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 233,
+        "level": 2,
+        "areaName": "南昌",
+        "pid": 17,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 234,
+        "level": 2,
+        "areaName": "抚州",
+        "pid": 17,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 235,
+        "level": 2,
+        "areaName": "赣州",
+        "pid": 17,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 236,
+        "level": 2,
+        "areaName": "吉安",
+        "pid": 17,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 237,
+        "level": 2,
+        "areaName": "景德镇",
+        "pid": 17,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 238,
+        "level": 2,
+        "areaName": "九江",
+        "pid": 17,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 239,
+        "level": 2,
+        "areaName": "萍乡",
+        "pid": 17,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 240,
+        "level": 2,
+        "areaName": "上饶",
+        "pid": 17,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 241,
+        "level": 2,
+        "areaName": "新余",
+        "pid": 17,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 242,
+        "level": 2,
+        "areaName": "宜春",
+        "pid": 17,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 243,
+        "level": 2,
+        "areaName": "鹰潭",
+        "pid": 17,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "areaName": "辽宁省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 244,
+        "level": 2,
+        "areaName": "沈阳",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 245,
+        "level": 2,
+        "areaName": "大连",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 246,
+        "level": 2,
+        "areaName": "鞍山",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 247,
+        "level": 2,
+        "areaName": "本溪",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 248,
+        "level": 2,
+        "areaName": "朝阳",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 249,
+        "level": 2,
+        "areaName": "丹东",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 250,
+        "level": 2,
+        "areaName": "抚顺",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 251,
+        "level": 2,
+        "areaName": "阜新",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 252,
+        "level": 2,
+        "areaName": "葫芦岛",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 253,
+        "level": 2,
+        "areaName": "锦州",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 254,
+        "level": 2,
+        "areaName": "辽阳",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 255,
+        "level": 2,
+        "areaName": "盘锦",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 256,
+        "level": 2,
+        "areaName": "铁岭",
+        "pid": 18,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 257,
+        "level": 2,
+        "areaName": "营口",
+        "pid": 18,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "areaName": "内蒙古自治区",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 258,
+        "level": 2,
+        "areaName": "呼和浩特",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 259,
+        "level": 2,
+        "areaName": "阿拉善盟",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 260,
+        "level": 2,
+        "areaName": "巴彦淖尔盟",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 261,
+        "level": 2,
+        "areaName": "包头",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 262,
+        "level": 2,
+        "areaName": "赤峰",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 263,
+        "level": 2,
+        "areaName": "鄂尔多斯",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 264,
+        "level": 2,
+        "areaName": "呼伦贝尔",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 265,
+        "level": 2,
+        "areaName": "通辽",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 266,
+        "level": 2,
+        "areaName": "乌海",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 267,
+        "level": 2,
+        "areaName": "乌兰察布市",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 268,
+        "level": 2,
+        "areaName": "锡林郭勒盟",
+        "pid": 19,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 269,
+        "level": 2,
+        "areaName": "兴安盟",
+        "pid": 19,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "areaName": "宁夏回族自治区",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 270,
+        "level": 2,
+        "areaName": "银川",
+        "pid": 20,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 271,
+        "level": 2,
+        "areaName": "固原",
+        "pid": 20,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 272,
+        "level": 2,
+        "areaName": "石嘴山",
+        "pid": 20,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 273,
+        "level": 2,
+        "areaName": "吴忠",
+        "pid": 20,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 274,
+        "level": 2,
+        "areaName": "中卫",
+        "pid": 20,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "areaName": "青海省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 275,
+        "level": 2,
+        "areaName": "西宁",
+        "pid": 21,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 276,
+        "level": 2,
+        "areaName": "果洛",
+        "pid": 21,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 277,
+        "level": 2,
+        "areaName": "海北",
+        "pid": 21,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 278,
+        "level": 2,
+        "areaName": "海东",
+        "pid": 21,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 279,
+        "level": 2,
+        "areaName": "海南",
+        "pid": 21,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 280,
+        "level": 2,
+        "areaName": "海西",
+        "pid": 21,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 281,
+        "level": 2,
+        "areaName": "黄南",
+        "pid": 21,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 282,
+        "level": 2,
+        "areaName": "玉树",
+        "pid": 21,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "areaName": "山东省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 283,
+        "level": 2,
+        "areaName": "济南",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 284,
+        "level": 2,
+        "areaName": "青岛",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 285,
+        "level": 2,
+        "areaName": "滨州",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 286,
+        "level": 2,
+        "areaName": "德州",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 287,
+        "level": 2,
+        "areaName": "东营",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 288,
+        "level": 2,
+        "areaName": "菏泽",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 289,
+        "level": 2,
+        "areaName": "济宁",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 290,
+        "level": 2,
+        "areaName": "莱芜",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 291,
+        "level": 2,
+        "areaName": "聊城",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 292,
+        "level": 2,
+        "areaName": "临沂",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 293,
+        "level": 2,
+        "areaName": "日照",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 294,
+        "level": 2,
+        "areaName": "泰安",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 295,
+        "level": 2,
+        "areaName": "威海",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 296,
+        "level": 2,
+        "areaName": "潍坊",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 297,
+        "level": 2,
+        "areaName": "烟台",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 298,
+        "level": 2,
+        "areaName": "枣庄",
+        "pid": 22,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 299,
+        "level": 2,
+        "areaName": "淄博",
+        "pid": 22,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "areaName": "山西省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 300,
+        "level": 2,
+        "areaName": "太原",
+        "pid": 23,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 301,
+        "level": 2,
+        "areaName": "长治",
+        "pid": 23,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 302,
+        "level": 2,
+        "areaName": "大同",
+        "pid": 23,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 303,
+        "level": 2,
+        "areaName": "晋城",
+        "pid": 23,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 304,
+        "level": 2,
+        "areaName": "晋中",
+        "pid": 23,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 305,
+        "level": 2,
+        "areaName": "临汾",
+        "pid": 23,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 306,
+        "level": 2,
+        "areaName": "吕梁",
+        "pid": 23,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 307,
+        "level": 2,
+        "areaName": "朔州",
+        "pid": 23,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 308,
+        "level": 2,
+        "areaName": "忻州",
+        "pid": 23,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 309,
+        "level": 2,
+        "areaName": "阳泉",
+        "pid": 23,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 310,
+        "level": 2,
+        "areaName": "运城",
+        "pid": 23,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "areaName": "陕西省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 311,
+        "level": 2,
+        "areaName": "西安",
+        "pid": 24,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 312,
+        "level": 2,
+        "areaName": "安康",
+        "pid": 24,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 313,
+        "level": 2,
+        "areaName": "宝鸡",
+        "pid": 24,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 314,
+        "level": 2,
+        "areaName": "汉中",
+        "pid": 24,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 315,
+        "level": 2,
+        "areaName": "商洛",
+        "pid": 24,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 316,
+        "level": 2,
+        "areaName": "铜川",
+        "pid": 24,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "areaName": "渭南",
+        "pid": 24,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 318,
+        "level": 2,
+        "areaName": "咸阳",
+        "pid": 24,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 319,
+        "level": 2,
+        "areaName": "延安",
+        "pid": 24,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 320,
+        "level": 2,
+        "areaName": "榆林",
+        "pid": 24,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "areaName": "上海市",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 2703,
+        "level": 2,
+        "areaName": "长宁区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2704,
+        "level": 2,
+        "areaName": "闸北区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2705,
+        "level": 2,
+        "areaName": "闵行区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2706,
+        "level": 2,
+        "areaName": "徐汇区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2707,
+        "level": 2,
+        "areaName": "浦东新区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2708,
+        "level": 2,
+        "areaName": "杨浦区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2709,
+        "level": 2,
+        "areaName": "普陀区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2710,
+        "level": 2,
+        "areaName": "静安区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2711,
+        "level": 2,
+        "areaName": "卢湾区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2712,
+        "level": 2,
+        "areaName": "虹口区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2713,
+        "level": 2,
+        "areaName": "黄浦区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2714,
+        "level": 2,
+        "areaName": "南汇区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2715,
+        "level": 2,
+        "areaName": "松江区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2716,
+        "level": 2,
+        "areaName": "嘉定区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2717,
+        "level": 2,
+        "areaName": "宝山区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2718,
+        "level": 2,
+        "areaName": "青浦区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2719,
+        "level": 2,
+        "areaName": "金山区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2720,
+        "level": 2,
+        "areaName": "奉贤区",
+        "pid": 25,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2721,
+        "level": 2,
+        "areaName": "崇明县",
+        "pid": 25,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "areaName": "四川省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 322,
+        "level": 2,
+        "areaName": "成都",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 323,
+        "level": 2,
+        "areaName": "绵阳",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 324,
+        "level": 2,
+        "areaName": "阿坝",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 325,
+        "level": 2,
+        "areaName": "巴中",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 326,
+        "level": 2,
+        "areaName": "达州",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 327,
+        "level": 2,
+        "areaName": "德阳",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 328,
+        "level": 2,
+        "areaName": "甘孜",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 329,
+        "level": 2,
+        "areaName": "广安",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 330,
+        "level": 2,
+        "areaName": "广元",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 331,
+        "level": 2,
+        "areaName": "乐山",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 332,
+        "level": 2,
+        "areaName": "凉山",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 333,
+        "level": 2,
+        "areaName": "眉山",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 334,
+        "level": 2,
+        "areaName": "南充",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 335,
+        "level": 2,
+        "areaName": "内江",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 336,
+        "level": 2,
+        "areaName": "攀枝花",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 337,
+        "level": 2,
+        "areaName": "遂宁",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 338,
+        "level": 2,
+        "areaName": "雅安",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 339,
+        "level": 2,
+        "areaName": "宜宾",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 340,
+        "level": 2,
+        "areaName": "资阳",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 341,
+        "level": 2,
+        "areaName": "自贡",
+        "pid": 26,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 342,
+        "level": 2,
+        "areaName": "泸州",
+        "pid": 26,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "areaName": "天津市",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 2912,
+        "level": 2,
+        "areaName": "和平区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2913,
+        "level": 2,
+        "areaName": "河西区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2914,
+        "level": 2,
+        "areaName": "南开区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2915,
+        "level": 2,
+        "areaName": "河北区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2916,
+        "level": 2,
+        "areaName": "河东区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2917,
+        "level": 2,
+        "areaName": "红桥区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2918,
+        "level": 2,
+        "areaName": "东丽区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2919,
+        "level": 2,
+        "areaName": "津南区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2920,
+        "level": 2,
+        "areaName": "西青区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2921,
+        "level": 2,
+        "areaName": "北辰区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2922,
+        "level": 2,
+        "areaName": "塘沽区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2923,
+        "level": 2,
+        "areaName": "汉沽区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2924,
+        "level": 2,
+        "areaName": "大港区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2925,
+        "level": 2,
+        "areaName": "武清区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2926,
+        "level": 2,
+        "areaName": "宝坻区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2927,
+        "level": 2,
+        "areaName": "经济开发区",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2928,
+        "level": 2,
+        "areaName": "宁河县",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2929,
+        "level": 2,
+        "areaName": "静海县",
+        "pid": 27,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 2930,
+        "level": 2,
+        "areaName": "蓟县",
+        "pid": 27,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "areaName": "西藏自治区",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 344,
+        "level": 2,
+        "areaName": "拉萨",
+        "pid": 28,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 345,
+        "level": 2,
+        "areaName": "阿里",
+        "pid": 28,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 346,
+        "level": 2,
+        "areaName": "昌都",
+        "pid": 28,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 347,
+        "level": 2,
+        "areaName": "林芝",
+        "pid": 28,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 348,
+        "level": 2,
+        "areaName": "那曲",
+        "pid": 28,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 349,
+        "level": 2,
+        "areaName": "日喀则",
+        "pid": 28,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 350,
+        "level": 2,
+        "areaName": "山南",
+        "pid": 28,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "areaName": "新疆维吾尔自治区",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 351,
+        "level": 2,
+        "areaName": "乌鲁木齐",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 352,
+        "level": 2,
+        "areaName": "阿克苏",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 353,
+        "level": 2,
+        "areaName": "阿拉尔",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 354,
+        "level": 2,
+        "areaName": "巴音郭楞",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 355,
+        "level": 2,
+        "areaName": "博尔塔拉",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 356,
+        "level": 2,
+        "areaName": "昌吉",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 357,
+        "level": 2,
+        "areaName": "哈密",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 358,
+        "level": 2,
+        "areaName": "和田",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 359,
+        "level": 2,
+        "areaName": "喀什",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 360,
+        "level": 2,
+        "areaName": "克拉玛依",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 361,
+        "level": 2,
+        "areaName": "克孜勒苏",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 362,
+        "level": 2,
+        "areaName": "石河子",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 363,
+        "level": 2,
+        "areaName": "图木舒克",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 364,
+        "level": 2,
+        "areaName": "吐鲁番",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 365,
+        "level": 2,
+        "areaName": "五家渠",
+        "pid": 29,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 366,
+        "level": 2,
+        "areaName": "伊犁",
+        "pid": 29,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "areaName": "云南省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 367,
+        "level": 2,
+        "areaName": "昆明",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 368,
+        "level": 2,
+        "areaName": "怒江",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 369,
+        "level": 2,
+        "areaName": "普洱",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 370,
+        "level": 2,
+        "areaName": "丽江",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 371,
+        "level": 2,
+        "areaName": "保山",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 372,
+        "level": 2,
+        "areaName": "楚雄",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 373,
+        "level": 2,
+        "areaName": "大理",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 374,
+        "level": 2,
+        "areaName": "德宏",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 375,
+        "level": 2,
+        "areaName": "迪庆",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 376,
+        "level": 2,
+        "areaName": "红河",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 377,
+        "level": 2,
+        "areaName": "临沧",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 378,
+        "level": 2,
+        "areaName": "曲靖",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 379,
+        "level": 2,
+        "areaName": "文山",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 380,
+        "level": 2,
+        "areaName": "西双版纳",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 381,
+        "level": 2,
+        "areaName": "玉溪",
+        "pid": 30,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 382,
+        "level": 2,
+        "areaName": "昭通",
+        "pid": 30,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "areaName": "浙江省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 383,
+        "level": 2,
+        "areaName": "杭州",
+        "pid": 31,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 384,
+        "level": 2,
+        "areaName": "湖州",
+        "pid": 31,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 385,
+        "level": 2,
+        "areaName": "嘉兴",
+        "pid": 31,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 386,
+        "level": 2,
+        "areaName": "金华",
+        "pid": 31,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 387,
+        "level": 2,
+        "areaName": "丽水",
+        "pid": 31,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 388,
+        "level": 2,
+        "areaName": "宁波",
+        "pid": 31,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 389,
+        "level": 2,
+        "areaName": "绍兴",
+        "pid": 31,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 390,
+        "level": 2,
+        "areaName": "台州",
+        "pid": 31,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 391,
+        "level": 2,
+        "areaName": "温州",
+        "pid": 31,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 392,
+        "level": 2,
+        "areaName": "舟山",
+        "pid": 31,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 393,
+        "level": 2,
+        "areaName": "衢州",
+        "pid": 31,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "areaName": "重庆市",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 3325,
+        "level": 2,
+        "areaName": "合川区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3326,
+        "level": 2,
+        "areaName": "江津区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3327,
+        "level": 2,
+        "areaName": "南川区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3328,
+        "level": 2,
+        "areaName": "永川区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3329,
+        "level": 2,
+        "areaName": "南岸区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3330,
+        "level": 2,
+        "areaName": "渝北区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3331,
+        "level": 2,
+        "areaName": "万盛区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3332,
+        "level": 2,
+        "areaName": "大渡口区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3333,
+        "level": 2,
+        "areaName": "万州区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3334,
+        "level": 2,
+        "areaName": "北碚区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3335,
+        "level": 2,
+        "areaName": "沙坪坝区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3336,
+        "level": 2,
+        "areaName": "巴南区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3337,
+        "level": 2,
+        "areaName": "涪陵区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3338,
+        "level": 2,
+        "areaName": "江北区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3339,
+        "level": 2,
+        "areaName": "九龙坡区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3340,
+        "level": 2,
+        "areaName": "渝中区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3341,
+        "level": 2,
+        "areaName": "黔江开发区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3342,
+        "level": 2,
+        "areaName": "长寿区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3343,
+        "level": 2,
+        "areaName": "双桥区",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3344,
+        "level": 2,
+        "areaName": "綦江县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3345,
+        "level": 2,
+        "areaName": "潼南县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3346,
+        "level": 2,
+        "areaName": "铜梁县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3347,
+        "level": 2,
+        "areaName": "大足县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3348,
+        "level": 2,
+        "areaName": "荣昌县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3349,
+        "level": 2,
+        "areaName": "璧山县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3350,
+        "level": 2,
+        "areaName": "垫江县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3351,
+        "level": 2,
+        "areaName": "武隆县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3352,
+        "level": 2,
+        "areaName": "丰都县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3353,
+        "level": 2,
+        "areaName": "城口县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3354,
+        "level": 2,
+        "areaName": "梁平县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3355,
+        "level": 2,
+        "areaName": "开县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3356,
+        "level": 2,
+        "areaName": "巫溪县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3357,
+        "level": 2,
+        "areaName": "巫山县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3358,
+        "level": 2,
+        "areaName": "奉节县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3359,
+        "level": 2,
+        "areaName": "云阳县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3360,
+        "level": 2,
+        "areaName": "忠县",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3361,
+        "level": 2,
+        "areaName": "石柱",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3362,
+        "level": 2,
+        "areaName": "彭水",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3363,
+        "level": 2,
+        "areaName": "酉阳",
+        "pid": 32,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3364,
+        "level": 2,
+        "areaName": "秀山",
+        "pid": 32,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "areaName": "香港特别行政区",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 3365,
+        "level": 2,
+        "areaName": "沙田区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3366,
+        "level": 2,
+        "areaName": "东区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3367,
+        "level": 2,
+        "areaName": "观塘区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3368,
+        "level": 2,
+        "areaName": "黄大仙区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3369,
+        "level": 2,
+        "areaName": "九龙城区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3370,
+        "level": 2,
+        "areaName": "屯门区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3371,
+        "level": 2,
+        "areaName": "葵青区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3372,
+        "level": 2,
+        "areaName": "元朗区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3373,
+        "level": 2,
+        "areaName": "深水埗区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3374,
+        "level": 2,
+        "areaName": "西贡区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3375,
+        "level": 2,
+        "areaName": "大埔区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3376,
+        "level": 2,
+        "areaName": "湾仔区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3377,
+        "level": 2,
+        "areaName": "油尖旺区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3378,
+        "level": 2,
+        "areaName": "北区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3379,
+        "level": 2,
+        "areaName": "南区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3380,
+        "level": 2,
+        "areaName": "荃湾区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3381,
+        "level": 2,
+        "areaName": "中西区",
+        "pid": 33,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3382,
+        "level": 2,
+        "areaName": "离岛区",
+        "pid": 33,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "areaName": "澳门特别行政区",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 396,
+        "level": 2,
+        "areaName": "澳门",
+        "pid": 34,
+        "isMunicipality": "N"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "areaName": "台湾省",
+    "pid": 1,
+    "isMunicipality": "N",
+    "data": [
+      {
+        "id": 3384,
+        "level": 2,
+        "areaName": "台北",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3385,
+        "level": 2,
+        "areaName": "高雄",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3386,
+        "level": 2,
+        "areaName": "基隆",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3387,
+        "level": 2,
+        "areaName": "台中",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3388,
+        "level": 2,
+        "areaName": "台南",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3389,
+        "level": 2,
+        "areaName": "新竹",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3390,
+        "level": 2,
+        "areaName": "嘉义",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3391,
+        "level": 2,
+        "areaName": "宜兰县",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3392,
+        "level": 2,
+        "areaName": "桃园县",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3393,
+        "level": 2,
+        "areaName": "苗栗县",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3394,
+        "level": 2,
+        "areaName": "彰化县",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3395,
+        "level": 2,
+        "areaName": "南投县",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3396,
+        "level": 2,
+        "areaName": "云林县",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3397,
+        "level": 2,
+        "areaName": "屏东县",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3398,
+        "level": 2,
+        "areaName": "台东县",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3399,
+        "level": 2,
+        "areaName": "花莲县",
+        "pid": 35,
+        "isMunicipality": "N"
+      },
+      {
+        "id": 3400,
+        "level": 2,
+        "areaName": "澎湖县",
+        "pid": 35,
+        "isMunicipality": "N"
+      }
+    ]
+  }
+]
